@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm not working<br>I am a student<br>I pursuving BCA
+I'm not working<br>I am a student<br>I am pursuing BCA
 
 
 # 💻 Tech Stack:
